@@ -261,7 +261,7 @@ public class Programa {
 
         //Verifica se nenhum resultado for encontrado, caso não encontre, inicia a impressão de duas linhas.
         if (!encontrouResultado) {
-            System.out.println("\tenhum resultado encontrado.");
+            System.out.println("\ Nenhum resultado encontrado.");
             System.out.println("\t===================================================================================");
         }
     }
